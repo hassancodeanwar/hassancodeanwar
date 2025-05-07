@@ -1,7 +1,6 @@
 #### 👋 Hi, I'm Hassan Anwar
 
-I'm a dedicated Data Scientist with a robust foundation in machine learning, statistical analysis, and data visualization. My expertise lies in transforming complex datasets into actionable insights, utilizing tools like Python, TensorFlow, and various cloud platforms. Beyond my professional endeavors, I have a keen interest in exploring emerging technologies, contributing to open-source projects, and engaging in creative problem-solving. Currently, I'm involved in projects that apply data science to real-world challenges, such as developing a Stock Prediction Web App using the Prophet model and a Skin Cancer Classification Model with TensorFlow and Keras. I'm committed to continuous learning to deepen my expertise in advanced machine learning techniques and big data technologies.([LinkedIn][1])
-
+I'm a dedicated Data Scientist with a robust foundation in machine learning, statistical analysis, and data visualization. My expertise lies in transforming complex datasets into actionable insights, utilizing tools like Python, TensorFlow, and various cloud platforms. Beyond my professional endeavors, I have a keen interest in exploring emerging technologies, contributing to open-source projects, and engaging in creative problem-solving. Currently, I'm involved in projects that apply data science to real-world challenges, such as developing a Stock Prediction Web App using the Prophet model and a Skin Cancer Classification Model with TensorFlow and Keras. I'm committed to continuous learning to deepen my expertise in advanced machine learning techniques and big data technologies.
 
 
 ## 🌐 Socials:
