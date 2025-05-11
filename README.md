@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Hassan Anwar</h1>
 <p align="center">
-  🇪🇬 Passionate AI Engineer | NLP & Generative AI Specialist
+  🇪🇬 Passionate AI Engineer | Data Science & Generative AI Specialist
 </p>
 
 ---
