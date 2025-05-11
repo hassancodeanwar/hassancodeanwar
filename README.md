@@ -7,10 +7,12 @@
 
 ### 🧠 About Me
 
-🎓 I specialize in **Natural Language Processing**, **Generative AI**, and **LLM-based Applications**.  
-💡 I love solving real-world problems by building intelligent products using `LangChain`, `Hugging Face`, `OpenAI`, and advanced `Vector Databases`.  
-🚀 Currently working on intelligent assistants, AI-driven exam generation systems, and multimodal recommendation engines.  
-📚 Lifelong learner with a strong interest in cutting-edge ML techniques and sharing knowledge with the tech community.
+👋 Hello! I'm **Hassan Anwar**, an AI Engineer with a passion for **Generative AI**. My expertise lies in crafting intelligent solutions that solve real-world challenges.  
+
+- 🎓 **Specialization**: Data Science, Generative AI, and LLM-based applications.  
+- 💡 **Technologies**: Leveraging tools like `LangChain`, `Hugging Face`, `OpenAI`, and advanced **Vector Databases** to create impactful AI-driven systems.  
+- 🚀 **Current Work**: Building intelligent assistants, AI-driven exam generation systems, and multimodal recommendation engines.  
+- 📚 **Interests**: Continuously learning cutting-edge machine learning techniques and contributing to the global tech community through knowledge sharing.  
 
 ---
 
