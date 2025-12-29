@@ -6,13 +6,13 @@
 ---
 
 ### 🧠 About Me
+👋 Hello! I’m **Hassan Anwar**, a **Data Scientist** based in Cairo, Egypt, with a strong foundation in Python, machine learning, and data engineering.
 
-👋 Hello! I'm **Hassan Anwar**, an AI Engineer with a passion for **Generative AI**. My expertise lies in crafting intelligent solutions that solve real-world challenges.  
+* 🎓 **Background**: Bachelor’s degree in Computer Science with hands-on experience through internships, academic projects, and freelancing.
+* 💡 **Core Skills**: Data cleaning and preparation, building data pipelines, machine learning and deep learning models, SQL, NLP, APIs, and chatbot development.
+* 🚀 **Projects**: Built real-world AI applications, including medical image classifiers, spam detection systems, and end-to-end data engineering projects.
+* 📚 **Mindset**: Passionate about continuous learning, teamwork, and applying AI to solve practical problems.
 
-- 🎓 **Specialization**: Data Science, Generative AI, and LLM-based applications.  
-- 💡 **Technologies**: Leveraging tools like `LangChain`, `Hugging Face`, `OpenAI`, and advanced **Vector Databases** to create impactful AI-driven systems.  
-- 🚀 **Current Work**: Building intelligent assistants, AI-driven exam generation systems, and multimodal recommendation engines.  
-- 📚 **Interests**: Continuously learning cutting-edge machine learning techniques and contributing to the global tech community through knowledge sharing.  
 
 ---
 
